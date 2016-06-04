@@ -1,0 +1,1930 @@
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  O  i  O  i  
+ J  J  J  J  J  J  J  O  O  O  O  i  O  
+J  J  J  J  J  J  J  J  O  O  O  O  O  
+ J  J  J  J  J  J  J  J  O  O  O  O  O  
+J  J  J  J  J  J  J  J  O  O  i  i  i  
+ J  J  J  J  J  J  O  O  O  O  i  O  O  
+J  J  J  J  J  J  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  O  O  O  O  O  O  O  O  
+ J  J  J  J  J  O  O  O  O  O  O  i  O  
+J  J  J  J  O  J  O  O  i  O  O  O  O  
+ J  J  O  O  O  O  O  O  O  O  O  O  O  
+J  J  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  O  i  O  i  
+ R  R  R  R  R  R  R  O  O  O  O  i  O  
+R  R  R  R  R  R  R  R  O  O  O  O  O  
+ R  R  R  R  R  R  R  R  O  O  O  O  O  
+R  R  R  R  R  R  R  R  O  O  i  i  i  
+ R  R  R  R  R  R  O  O  O  O  i  O  O  
+R  R  R  R  R  R  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  O  O  O  O  O  O  O  O  
+ R  R  R  R  R  O  O  O  O  O  O  i  O  
+R  R  R  R  O  R  O  O  i  O  O  O  O  
+ R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  O  O  O  O  O  O  O  O  O  O  O  
+R  R  R  R  R  R  R  R  R  J  i  J  i  
+ R  R  R  R  R  R  R  J  J  J  J  i  J  
+R  R  R  R  R  R  R  R  J  J  J  J  J  
+ R  R  R  R  R  R  R  R  J  J  J  J  J  
+R  R  R  R  R  R  R  R  J  J  i  i  i  
+ R  R  R  R  R  R  J  J  J  J  i  J  J  
+R  R  R  R  R  R  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  J  J  J  J  J  J  J  J  
+ R  R  R  R  R  J  J  J  J  J  J  i  J  
+R  R  R  R  J  R  J  J  i  J  J  J  J  
+ R  R  J  J  J  J  J  J  J  J  J  J  J  
+R  R  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  J  i  J  i  
+ O  O  O  O  O  O  O  J  J  J  J  i  J  
+O  O  O  O  O  O  O  O  J  J  J  J  J  
+ O  O  O  O  O  O  O  O  J  J  J  J  J  
+O  O  O  O  O  O  O  O  J  J  i  i  i  
+ O  O  O  O  O  O  J  J  J  J  i  J  J  
+O  O  O  O  O  O  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  J  J  J  J  J  J  J  J  
+ O  O  O  O  O  J  J  J  J  J  J  i  J  
+O  O  O  O  J  O  J  J  i  J  J  J  J  
+ O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  J  J  J  J  J  J  J  J  J  J  J  
+O  O  O  O  O  O  O  O  O  R  i  R  i  
+ O  O  O  O  O  O  O  R  R  R  R  i  R  
+O  O  O  O  O  O  O  O  R  R  R  R  R  
+ O  O  O  O  O  O  O  O  R  R  R  R  R  
+O  O  O  O  O  O  O  O  R  R  i  i  i  
+ O  O  O  O  O  O  R  R  R  R  i  R  R  
+O  O  O  O  O  O  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  R  R  R  R  R  R  R  R  
+ O  O  O  O  O  R  R  R  R  R  R  i  R  
+O  O  O  O  R  O  R  R  i  R  R  R  R  
+ O  O  R  R  R  R  R  R  R  R  R  R  R  
+O  O  R  R  R  R  R  R  R  R  R  R  R  
+J  J  J  J  J  J  J  J  J  R  i  R  i  
+ J  J  J  J  J  J  J  R  R  R  R  i  R  
+J  J  J  J  J  J  J  J  R  R  R  R  R  
+ J  J  J  J  J  J  J  J  R  R  R  R  R  
+J  J  J  J  J  J  J  J  R  R  i  i  i  
+ J  J  J  J  J  J  R  R  R  R  i  R  R  
+J  J  J  J  J  J  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  R  R  R  R  R  R  R  R  
+ J  J  J  J  J  R  R  R  R  R  R  i  R  
+J  J  J  J  R  J  R  R  i  R  R  R  R  
+ J  J  R  R  R  R  R  R  R  R  R  R  R  
+J  J  R  R  R  R  R  R  R  R  R  R  R  
